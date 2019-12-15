@@ -1,0 +1,10 @@
+INSERT INTO clientes(nombres, apellidos, email, create_at) VALUES('Braulio Fernando', 'Cusco Mejia', 'admin@admin.com', '2019/12/15');
+INSERT INTO clientes(nombres, apellidos, email, create_at) VALUES('Braulio Fernando', 'Cusco Mejia', 'admin@admin.com', '2019/12/15');
+INSERT INTO clientes(nombres, apellidos, email, create_at) VALUES('Braulio Fernando', 'Cusco Mejia', 'admin@admin.com', '2019/12/15');
+INSERT INTO clientes(nombres, apellidos, email, create_at) VALUES('Braulio Fernando', 'Cusco Mejia', 'admin@admin.com', '2019/12/15');
+INSERT INTO clientes(nombres, apellidos, email, create_at) VALUES('Braulio Fernando', 'Cusco Mejia', 'admin@admin.com', '2019/12/15');
+INSERT INTO clientes(nombres, apellidos, email, create_at) VALUES('Braulio Fernando', 'Cusco Mejia', 'admin@admin.com', '2019/12/15');
+INSERT INTO clientes(nombres, apellidos, email, create_at) VALUES('Braulio Fernando', 'Cusco Mejia', 'admin@admin.com', '2019/12/15');
+INSERT INTO clientes(nombres, apellidos, email, create_at) VALUES('Braulio Fernando', 'Cusco Mejia', 'admin@admin.com', '2019/12/15');
+INSERT INTO clientes(nombres, apellidos, email, create_at) VALUES('Braulio Fernando', 'Cusco Mejia', 'admin@admin.com', '2019/12/15');
+INSERT INTO clientes(nombres, apellidos, email, create_at) VALUES('Braulio Fernando', 'Cusco Mejia', 'admin@admin.com', '2019/12/15');
